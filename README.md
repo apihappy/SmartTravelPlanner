@@ -20,3 +20,7 @@ git clone https://github.com/apihappy/SmartTravelPlanner.git
 cd SmartTravelPlanner
 
 # Open index.html in a browser to view
+```
+
+## 📜 License
+MIT License
